@@ -1,1 +1,4 @@
 Lista de características:
+Sistema de usuarios
+Dashboard principal
+Reportes básicos
