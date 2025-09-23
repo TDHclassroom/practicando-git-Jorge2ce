@@ -1,2 +1,1 @@
-Documento de ejemplo.
-Versión desarrollada en rama feature
+Versión combinada de ambas ramas
