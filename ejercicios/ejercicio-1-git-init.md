@@ -17,6 +17,7 @@ Aprender a inicializar un repositorio Git y configurar la información básica d
 
 3. Verifica que la configuración se guardó correctamente:
    ```bash
+   
    git config --list
    ```
 
